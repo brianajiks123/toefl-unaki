@@ -11,10 +11,10 @@ Website Application to TOEFL exam in UNAKI scale. For now, this project is live.
 
 ## Screenshots
 
-![App Screenshot](./archives/documentation/Login.png)
-![App Screenshot](./archives/documentation/Admin%20Dashboard.png)
-![App Screenshot](./archives/documentation/Student%20Exams.png)
-![App Screenshot](./archives/documentation/Student_Results.png)
+![Login Page](./archives/documentation/Login.png)
+![Admin: Dashboard](./archives/documentation/Admin%20Dashboard.png)
+![Student: Exams](./archives/documentation/Student%20Exams.png)
+![Student: Results](./archives/documentation/Student%20Exam%20Result.png)
 
 
 ## Run Locally
