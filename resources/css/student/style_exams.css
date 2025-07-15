@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 1000;
+    border-bottom: 1px solid #ddd;
+}
+
+.content {
+    margin-top: 70px;
+    padding: 20px;
+}
+
+.logo img {
+    height: 40px;
+    width: auto;
+}
+
+.header .row {
+    align-items: center;
+}
+
+.header h5 {
+    margin: 0;
+    font-size: 1.25rem;
+}
+
+.header span {
+    font-size: 1rem;
+}
+
+.exam-timer {
+    border-radius: 5px;
+}
