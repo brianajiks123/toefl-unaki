@@ -16,6 +16,6 @@
         "datatables.net-bs5": "^2.1.2",
         "jquery": "^3.7.1",
         "sass": "^1.77.6",
-        "sweetalert2": "^11.6.13"
+        "sweetalert2": "^11.22.4"
     }
 }
