@@ -7,7 +7,7 @@
     "require": {
         "php": "^8.3",
         "james-heinrich/getid3": "^1.9",
-        "laravel/framework": "^11.9",
+        "laravel/framework": "^12.61",
         "laravel/tinker": "^2.9",
         "league/oauth2-google": "^4.0",
         "maatwebsite/excel": "^3.1",
